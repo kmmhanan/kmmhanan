@@ -46,8 +46,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kmmhanan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kmmhanan" /></a><a href="https://ko-fi.com/kmmhanan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kmmhanan" /></a></p><br><br>
 
-<p>&nbsp;<img align="right" style="width:58%" src="https://github-readme-stats.vercel.app/api?username=kmmhanan&show_icons=true&locale=en" alt="kmmhanan" /></p>
+<p>&nbsp;<img align="center" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=kmmhanan&show_icons=true&locale=en" alt="kmmhanan" /></p>
 
-<p><img align="left" style="width:38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmmhanan&show_icons=true&locale=en&layout=compact" alt="kmmhanan" /></p>
+<p><img align="center" style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmmhanan&show_icons=true&locale=en&layout=compact" alt="kmmhanan" /></p>
 
 <p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmmhanan&" alt="kmmhanan" /></p>
