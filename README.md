@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmmhanan" alt="kmmhanan" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
+
 <p align="left"> <a href="https://twitter.com/kmmhanan_" target="blank"><img src="https://img.shields.io/twitter/follow/kmmhanan_?logo=twitter&style=for-the-badge" alt="kmmhanan_" /></a> </p>
 
 - 🔭 I’m currently working on **Banking Application Development with Flutter**
@@ -44,8 +46,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kmmhanan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kmmhanan" /></a><a href="https://ko-fi.com/kmmhanan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kmmhanan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmmhanan&show_icons=true&locale=en&layout=compact" alt="kmmhanan" /></p>
+<p>&nbsp;<img align="right" style="width:58%" src="https://github-readme-stats.vercel.app/api?username=kmmhanan&show_icons=true&locale=en" alt="kmmhanan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmmhanan&show_icons=true&locale=en" alt="kmmhanan" /></p>
+<p><img align="left" style="width:38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmmhanan&show_icons=true&locale=en&layout=compact" alt="kmmhanan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmmhanan&" alt="kmmhanan" /></p>
+<p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmmhanan&" alt="kmmhanan" /></p>
