@@ -1,3 +1,6 @@
+<img align="right" alt="Coding" style="border-radius:5px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+<br>
+
 <h1 align="center">Hi 👋, I'm Kmm Hanan</h1>
 <h3 align="center">Full Stack Mobile & Web Application Developer | UIUX Designer | Flutter | Laravel PHP | React JS | .Net Core MVC C# | SASS</h3>
 
