@@ -1,4 +1,4 @@
-<!-- <img align="right" alt="Coding" style="border-radius:5px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+<img align="right" alt="Coding" style="border-radius:5px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 <br>
 
 <h1 align="center">Hi 👋, I'm Kmm Hanan</h1>
@@ -53,9 +53,9 @@
 
 <p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmmhanan&show_icons=true&locale=en&layout=compact" alt="kmmhanan" /></p>
 
-<p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmmhanan&" alt="kmmhanan" /></p> -->
+<p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmmhanan&" alt="kmmhanan" /></p>
 
-<h1 align="center">HI GUYS 👋, WELCOME TO MY REPO 😍</h1>
+<!-- <h1 align="center">HI GUYS 👋, WELCOME TO MY REPO 😍</h1>
 
 <div align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F700&center=true&width=435&lines=I+am%2C+Kmm+Hanan" alt="Typing SVG" /></a>
@@ -236,4 +236,4 @@
 
 <img src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
