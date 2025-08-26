@@ -57,6 +57,8 @@
 
 <h1 align="center">HI GUYS 👋, WELCOME TO MY REPO 😍</h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F700&width=435&lines=I+am%2C+Kmm+Hanan" alt="Typing SVG" /></a>
+
 ###
 
 <p align="left">Hello World!!</p>
@@ -229,7 +231,6 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/snake.svg" alt="Snake animation" /> -->
-<img src="https://kmmhanan.github.io/kmmhanan/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/snake.svg" alt="Snake animation" />
 
 ###
