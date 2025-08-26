@@ -229,6 +229,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://kmmhanan.github.io/kmmhanan/snake.svg" alt="Snake animation" />
 
 ###
