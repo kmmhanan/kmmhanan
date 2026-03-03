@@ -31,11 +31,10 @@
 <!-- ━━━━━━━━━━━━━ ABOUT ME ━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧑‍💻 &nbsp;About Me
+## 👋 ABOUT ME 👋
 
-</div>
+<div align="center">
 
 <br/>
 
@@ -69,9 +68,7 @@ motto: "I will work only if I am satisfied 😅"
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🌐 &nbsp;Connect With Me
+## 🔗 CONNECT WITH ME 🔗
 
   <br/>
 
@@ -105,9 +102,6 @@ motto: "I will work only if I am satisfied 😅"
   <a href="https://gitlab.com/kmmhanan" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>&nbsp;
-  <a href="https://ko-fi.com/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>&nbsp;
   <a href="https://www.leetcode.com/kmmhanan" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>&nbsp;
@@ -123,9 +117,7 @@ motto: "I will work only if I am satisfied 😅"
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ⚡ &nbsp;Tech Stack
+## ⚙️ TECH STACK ⚙️
 
   <br/>
 
@@ -141,9 +133,7 @@ motto: "I will work only if I am satisfied 😅"
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 &nbsp;GitHub Analytics
+## 📈 GITHUB ANALYTICS 📈
 
   <br/>
 
@@ -167,9 +157,7 @@ motto: "I will work only if I am satisfied 😅"
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 &nbsp;Contribution Snake
+## 🐍 CONTRIBUTION SNAKE 🐍
 
   <br/>
 
@@ -180,8 +168,8 @@ motto: "I will work only if I am satisfied 😅"
     <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
   </picture>
   
-  <br/>
-  <sub>⚠️ If the snake is not visible, go to <b>Actions</b> tab → <b>Generate Snake</b> → <b>Run workflow</b></sub>
+  <!-- <br/>
+  <sub>⚠️ If the snake is not visible, go to <b>Actions</b> tab → <b>Generate Snake</b> → <b>Run workflow</b></sub> -->
 
 </div>
 
@@ -191,34 +179,11 @@ motto: "I will work only if I am satisfied 😅"
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💡 &nbsp;Random Dev Quote
+## 💭 RANDOM DEV QUOTE 💭
 
   <br/>
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" />
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━ SUPPORT ━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ☕ &nbsp;Support My Work
-
-  <br/>
-
-  <a href="https://www.buymeacoffee.com/kmmhanan">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>&nbsp;&nbsp;
-  <a href="https://ko-fi.com/kmmhanan">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
 
 </div>
 
@@ -229,6 +194,8 @@ motto: "I will work only if I am satisfied 😅"
 <div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7a5cff&height=120&section=footer" />
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
