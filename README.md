@@ -15,14 +15,14 @@
   <!-- PROFILE BADGES -->
   <br/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views" />
   &nbsp;
   <a href="https://twitter.com/kmmhanan">
-    <img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=white" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=black&labelColor=555555" alt="Twitter Follow" />
   </a>
   &nbsp;
   <a href="https://github.com/kmmhanan?tab=followers">
-    <img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=7a5cff&labelColor=0d1117" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=black&labelColor=555555" alt="GitHub Followers" />
   </a>
 
 </div>
