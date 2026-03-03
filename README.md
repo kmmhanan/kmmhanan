@@ -35,7 +35,7 @@
 <table align="center" cellpadding="15" cellspacing="0">
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
-<tr><td colspan="2" align="center"><h2>👋 ABOUT ME 👋</h2></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;">👋 ABOUT ME 👋</div></td></tr>
 <tr>
 <td width="55%" valign="top">
 
@@ -59,7 +59,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ CONNECT WITH ME ═══════════════ -->
-<tr><td colspan="2" align="center"><h2>🔗 CONNECT WITH ME 🔗</h2></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;">🔗 CONNECT WITH ME 🔗</div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -80,7 +80,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-<tr><td colspan="2" align="center"><h2>⚙️ TECH STACK ⚙️</h2></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;">⚙️ TECH STACK ⚙️</div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -92,7 +92,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-<tr><td colspan="2" align="center"><h2>📈 GITHUB ANALYTICS 📈</h2></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;">📈 GITHUB ANALYTICS 📈</div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -104,7 +104,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
-<tr><td colspan="2" align="center"><h2>🐍 CONTRIBUTION SNAKE 🐍</h2></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;">🐍 CONTRIBUTION SNAKE 🐍</div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -118,7 +118,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ RANDOM DEV QUOTE ═══════════════ -->
-<tr><td colspan="2" align="center"><h2>💭 RANDOM DEV QUOTE 💭</h2></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;">💭 RANDOM DEV QUOTE 💭</div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
