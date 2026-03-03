@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- HEADER WAVE -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:ffffff&height=220&section=header&text=KMM%20HANAN&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Flutter%20and%20Node.js%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:ffffff&height=220&section=header&text=KMM%20HANAN&fontSize=63&fontColor=ffffff&fontAlignY=35&desc=Flutter%20and%20Node.js%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" />
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
@@ -42,7 +42,7 @@
 <tr>
 <td width="55%" valign="top">
 
-```yaml
+```text
 name: Kmm Hanan
 role: Flutter & Node.js Developer | UI/UX Designer
 motto: "I will work only if I am satisfied 😅"
@@ -57,7 +57,7 @@ motto: "I will work only if I am satisfied 😅"
 
 </td>
 <td width="45%" align="center" valign="center">
-<img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img alt="Coding" width="100%" style="border-radius:10px; filter: grayscale(100%);" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </td>
 </tr>
 
