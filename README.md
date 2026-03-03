@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- HEADER WAVE -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7a5cff&height=220&section=header&text=Kmm%20Hanan&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Mobile%20%26%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7a5cff&height=220&section=header&text=Kmm%20Hanan&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Mobile%20and%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" />
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
@@ -194,7 +194,7 @@ motto: "I will work only if I am satisfied 😅"
 
   <!-- STATS ROW -->
   <a href="https://github.com/kmmhanan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kmmhanan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&bg_color=0d1117" alt="Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kmmhanan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=algolia&locale=en&hide_border=true&bg_color=0d1117" alt="Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kmmhanan">
