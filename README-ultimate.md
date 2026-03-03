@@ -5,11 +5,11 @@
 <div align="center">
 
   <!-- HEADER WAVE -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7a5cff&height=220&section=header&text=Kmm%20Hanan&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Flutter%20and%20Node.js%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7a5cff&height=220&section=header&text=Kmm%20Hanan&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Mobile%20and%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" />
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Laravel+%7C+React+%7C+.NET+Core+%7C+Spring+Boot;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" />
   </a>
 
   <!-- PROFILE BADGES -->
@@ -45,16 +45,18 @@
 
 ```yaml
 name: Kmm Hanan
-role: Flutter & Node.js Developer | UI/UX Designer
+role: Full Stack Mobile & Web Developer | UI/UX Designer
 motto: "I will work only if I am satisfied 😅"
 ```
 
 &nbsp;&nbsp;🏦 &nbsp;Currently building **Banking Applications with Flutter**<br/>
-&nbsp;&nbsp;🌱 &nbsp;Exploring **Flutter · Node.js · Python**<br/>
-&nbsp;&nbsp;🤝 &nbsp;Open to collaborate on **Flutter & Node.js Projects**<br/>
+&nbsp;&nbsp;🌱 &nbsp;Exploring **Flutter · Laravel · Spring Boot · React JS**<br/>
+&nbsp;&nbsp;🤝 &nbsp;Open to collaborate on **Flutter & Full Stack Projects**<br/>
 &nbsp;&nbsp;👨‍💻 &nbsp;Portfolio → [**kmmhanan.com**](https://www.kmmhanan.com/)<br/>
-&nbsp;&nbsp;💬 &nbsp;Ask me about **Flutter, Dart, Node.js, TypeScript, Python**<br/>
-&nbsp;&nbsp;📧 &nbsp;Reach me at **hanan@kmmhanan.com**
+&nbsp;&nbsp;📝 &nbsp;I write articles at [**kmmhanan.com**](https://www.kmmhanan.com/)<br/>
+&nbsp;&nbsp;💬 &nbsp;Ask me about **Flutter, C#, ASP.NET Core, React, Laravel, PHP**<br/>
+&nbsp;&nbsp;📫 &nbsp;Reach me at **hanan@kmmhanan.com**<br/>
+&nbsp;&nbsp;📄 &nbsp;My experiences → [**Resume**](https://www.kmmhanan.com/)
 
 </td>
 <td width="45%" align="center" valign="center">
@@ -125,13 +127,49 @@ motto: "I will work only if I am satisfied 😅"
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ &nbsp;Tech Stack
+## ⚡ &nbsp;Tech Arsenal
 
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,javascript,typescript,python,firebase,mongodb" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,figma,vscode,androidstudio,github,linux" />
+### 📱 Mobile Development
+
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,firebase" />
+
+<br/><br/>
+
+### 🌐 Frontend
+
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,tailwind,bootstrap" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+  <img src="https://skillicons.dev/icons?i=laravel,php,dotnet,cs,nodejs,spring,python" />
+
+<br/><br/>
+
+### 🗄️ Database & Cloud
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,aws,docker,cloudflare,nginx" />
+
+<br/><br/>
+
+### 🔧 DevOps & Tools
+
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,linux,powershell,postman,rabbitmq,kafka" />
+
+<br/><br/>
+
+### 🎨 Design & Creative
+
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae,pr,svg" />
+
+<br/><br/>
+
+### 🛠️ IDEs & Workspace
+
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,notion" />
 
 </div>
 
@@ -146,6 +184,24 @@ motto: "I will work only if I am satisfied 😅"
 ## 📊 &nbsp;GitHub Analytics
 
   <br/>
+
+  <!-- TROPHIES -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kmmhanan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophy" />
+  </a>
+
+<br/><br/>
+
+  <!-- STATS ROW -->
+  <a href="https://github.com/kmmhanan">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kmmhanan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=algolia&locale=en&hide_border=true&bg_color=0d1117" alt="Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kmmhanan">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmmhanan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
+
+<br/><br/>
 
   <!-- STREAK -->
   <a href="https://github.com/kmmhanan">
