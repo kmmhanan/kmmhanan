@@ -28,17 +28,14 @@
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━ ABOUT ME ━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━ MAIN CONTENT TABLE ━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-## 👋 ABOUT ME 👋
+<table align="center" cellpadding="15" cellspacing="0">
 
-<div align="center">
-
-<br/>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+<tr><td colspan="2" align="center"><h2>👋 ABOUT ME 👋</h2></td></tr>
 <tr>
 <td width="55%" valign="top">
 
@@ -48,142 +45,89 @@ role: Flutter & Node.js Developer | UI/UX Designer
 motto: "I will work only if I am satisfied 😅"
 ```
 
-&nbsp;&nbsp;🏦 &nbsp;Currently building **Banking Applications with Flutter**<br/>
-&nbsp;&nbsp;🌱 &nbsp;Exploring **Flutter · Node.js · Python**<br/>
-&nbsp;&nbsp;🤝 &nbsp;Open to collaborate on **Flutter & Node.js Projects**<br/>
-&nbsp;&nbsp;👨‍💻 &nbsp;Portfolio → [**kmmhanan.com**](https://www.kmmhanan.com/)<br/>
-&nbsp;&nbsp;💬 &nbsp;Ask me about **Flutter, Dart, Node.js, TypeScript, Python**<br/>
-&nbsp;&nbsp;📧 &nbsp;Reach me at **hanan@kmmhanan.com**
+🏦 &nbsp;Currently building **Banking Applications with Flutter**<br/>
+🌱 &nbsp;Exploring **Flutter · Node.js · Python**<br/>
+🤝 &nbsp;Open to collaborate on **Flutter & Node.js Projects**<br/>
+👨‍💻 &nbsp;Portfolio → [**kmmhanan.com**](https://www.kmmhanan.com/)<br/>
+💬 &nbsp;Ask me about **Flutter, Dart, Node.js, TypeScript, Python**<br/>
+📧 &nbsp;Reach me at **hanan@kmmhanan.com**
 
 </td>
 <td width="45%" align="center" valign="center">
-
 <img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</td>
+</tr>
+
+<!-- ═══════════════ CONNECT WITH ME ═══════════════ -->
+<tr><td colspan="2" align="center"><h2>🔗 CONNECT WITH ME 🔗</h2></td></tr>
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://www.linkedin.com/in/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/kmmhanan_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://t.me/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
+<a href="https://www.instagram.com/kmmhanan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.facebook.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://discordapp.com/users/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<br/><br/>
+<a href="https://dribbble.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/19575911" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
+<a href="https://gitlab.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
+<a href="https://www.leetcode.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
+<a href="https://tryhackme.com/p/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 
 </td>
 </tr>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+<tr><td colspan="2" align="center"><h2>⚙️ TECH STACK ⚙️</h2></td></tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,javascript,typescript,python,firebase,mongodb" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,figma,vscode,androidstudio,github,linux" />
+
+</td>
+</tr>
+
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+<tr><td colspan="2" align="center"><h2>📈 GITHUB ANALYTICS 📈</h2></td></tr>
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://github.com/kmmhanan"><img width="70%" src="https://streak-stats.demolab.com?user=kmmhanan&theme=algolia&hide_border=true&background=0d1117&ring=00d2ff&fire=7a5cff&currStreakLabel=00d2ff" alt="Streak Stats" /></a>
+<br/><br/>
+<a href="https://github.com/kmmhanan"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kmmhanan&theme=react-dark&bg_color=0d1117&color=00d2ff&line=7a5cff&point=ffffff&area=true&area_color=7a5cff&hide_border=true" alt="Activity Graph" /></a>
+
+</td>
+</tr>
+
+<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
+<tr><td colspan="2" align="center"><h2>🐍 CONTRIBUTION SNAKE 🐍</h2></td></tr>
+<tr>
+<td colspan="2" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
+</picture>
+
+</td>
+</tr>
+
+<!-- ═══════════════ RANDOM DEV QUOTE ═══════════════ -->
+<tr><td colspan="2" align="center"><h2>💭 RANDOM DEV QUOTE 💭</h2></td></tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" />
+
+</td>
+</tr>
+
 </table>
-
-<!-- ━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-## 🔗 CONNECT WITH ME 🔗
-
-  <br/>
-
-  <a href="https://www.linkedin.com/in/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://twitter.com/kmmhanan_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-  <a href="https://t.me/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/kmmhanan/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;
-  <a href="https://www.facebook.com/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>&nbsp;
-  <a href="https://discordapp.com/users/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-
-<br/><br/>
-
-  <a href="https://dribbble.com/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
-  </a>&nbsp;
-  <a href="https://stackoverflow.com/users/19575911" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>&nbsp;
-  <a href="https://gitlab.com/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>&nbsp;
-  <a href="https://www.leetcode.com/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>&nbsp;
-  <a href="https://tryhackme.com/p/kmmhanan" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-## ⚙️ TECH STACK ⚙️
-
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,javascript,typescript,python,firebase,mongodb" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,figma,vscode,androidstudio,github,linux" />
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-## 📈 GITHUB ANALYTICS 📈
-
-  <br/>
-
-  <!-- STREAK -->
-  <a href="https://github.com/kmmhanan">
-    <img width="70%" src="https://streak-stats.demolab.com?user=kmmhanan&theme=algolia&hide_border=true&background=0d1117&ring=00d2ff&fire=7a5cff&currStreakLabel=00d2ff" alt="Streak Stats" />
-  </a>
-
-<br/><br/>
-
-  <!-- ACTIVITY GRAPH -->
-  <a href="https://github.com/kmmhanan">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kmmhanan&theme=react-dark&bg_color=0d1117&color=00d2ff&line=7a5cff&point=ffffff&area=true&area_color=7a5cff&hide_border=true" alt="Activity Graph" />
-  </a>
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━ CONTRIBUTION ANIMATIONS ━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-## 🐍 CONTRIBUTION SNAKE 🐍
-
-  <br/>
-
-  <!-- Snake animation - auto-generated by GitHub Actions -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
-  </picture>
-  
-  <!-- <br/>
-  <sub>⚠️ If the snake is not visible, go to <b>Actions</b> tab → <b>Generate Snake</b> → <b>Run workflow</b></sub> -->
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━ SPOTIFY / QUOTE ━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-## 💭 RANDOM DEV QUOTE 💭
-
-  <br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" />
 
 </div>
 
