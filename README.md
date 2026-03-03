@@ -42,7 +42,7 @@
 <tr>
 <td width="55%" valign="top">
 
-```text
+```yaml
 name: Kmm Hanan
 role: Flutter & Node.js Developer | UI/UX Designer
 motto: "I will work only if I am satisfied 😅"
@@ -57,7 +57,7 @@ motto: "I will work only if I am satisfied 😅"
 
 </td>
 <td width="45%" align="center" valign="center">
-<img alt="Coding" width="100%" style="border-radius:10px; filter: grayscale(100%);" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </td>
 </tr>
 
