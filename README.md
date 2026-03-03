@@ -35,7 +35,7 @@
 <table align="center" cellpadding="15" cellspacing="0">
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
-<tr><td colspan="2" align="center"><div style="font-size: 3em; font-weight: bold; margin: 0;">👋 ABOUT ME 👋</div></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/>👋 ABOUT ME 👋<br/></div></td></tr>
 <tr>
 <td width="55%" valign="top">
 
@@ -59,7 +59,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ CONNECT WITH ME ═══════════════ -->
-<tr><td colspan="2" align="center"><div style="font-size: 3em; font-weight: bold; margin: 0;">🔗 CONNECT WITH ME 🔗</div></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/>🔗 CONNECT WITH ME 🔗<br/></div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -80,7 +80,8 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-<tr><td colspan="2" align="center"><div style="font-size: 3em; font-weight: bold; margin: 0;">⚙️ TECH STACK ⚙️</div></td></tr>
+
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/>⚙️ TECH STACK ⚙️<br/></div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -92,7 +93,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-<tr><td colspan="2" align="center"><div style="font-size: 3em; font-weight: bold; margin: 0;">📈 GITHUB ANALYTICS 📈</div></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/>📈 GITHUB ANALYTICS 📈<br/></div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -104,7 +105,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
-<tr><td colspan="2" align="center"><div style="font-size: 3em; font-weight: bold; margin: 0;">🐍 CONTRIBUTION SNAKE 🐍</div></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/>🐍 CONTRIBUTION SNAKE 🐍<br/></div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -118,7 +119,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ RANDOM DEV QUOTE ═══════════════ -->
-<tr><td colspan="2" align="center"><div style="font-size: 3em; font-weight: bold; margin: 0;">💭 RANDOM DEV QUOTE 💭</div></td></tr>
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/>💭 RANDOM DEV QUOTE 💭<br/></div></td></tr>
 <tr>
 <td colspan="2" align="center">
 
