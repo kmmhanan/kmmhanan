@@ -14,10 +14,10 @@
 
   <!-- PROFILE BADGES -->
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=kmmhanan&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <a href="https://twitter.com/kmmhanan_">
-    <img src="https://img.shields.io/twitter/follow/kmmhanan_?logo=twitter&style=for-the-badge&color=00d2ff&labelColor=0d1117" alt="Twitter Follow" />
+  <a href="https://twitter.com/kmmhanan">
+    <img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=white" alt="Twitter Follow" />
   </a>
   &nbsp;
   <a href="https://github.com/kmmhanan?tab=followers">
@@ -64,7 +64,7 @@ motto: "I will work only if I am satisfied 😅"
 <td colspan="2" align="center">
 
 <a href="https://www.linkedin.com/in/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/kmmhanan_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://twitter.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://t.me/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="https://www.instagram.com/kmmhanan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.facebook.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
