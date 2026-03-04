@@ -14,7 +14,7 @@
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
 <tr>
-<td width="55%" colspan="2" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 name: Kmm Hanan
@@ -61,25 +61,27 @@ motto: "I will work only if I am satisfied 😅"
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>⚙️ TECH STACK ⚙️</b><br/><br/></div></td></tr>
 <tr>
 <td colspan="3" align="center">
-
-<img src="./stacks/1-flutter.svg" height="72" alt="Flutter" />&nbsp;&nbsp;
-<img src="./stacks/2-dart.svg" height="72" alt="Dart" />&nbsp;&nbsp;
-<img src="./stacks/3-laravel.svg" height="72" alt="Laravel" />&nbsp;&nbsp;
-<img src="./stacks/4-git.svg" height="72" alt="Git" />&nbsp;&nbsp;
-<img src="./stacks/5-react.svg" height="72" alt="React" />&nbsp;&nbsp;
-<img src="./stacks/6-slack.svg" height="72" alt="Slack" />&nbsp;&nbsp;
-<img src="./stacks/7-dotnet.svg" height="72" alt=".NET" />&nbsp;&nbsp;
-<img src="./stacks/8-php.svg" height="72" alt="PHP" />
+<br/>
+<br/>
+<img src="./stacks/1-flutter.svg" height="80" alt="Flutter" />&nbsp;&nbsp;
+<img src="./stacks/2-dart.svg" height="80" alt="Dart" />&nbsp;&nbsp;
+<img src="./stacks/3-laravel.svg" height="80" alt="Laravel" />&nbsp;&nbsp;
+<img src="./stacks/4-git.svg" height="80" alt="Git" />&nbsp;&nbsp;
+<img src="./stacks/5-react.svg" height="80" alt="React" />&nbsp;&nbsp;
+<img src="./stacks/6-slack.svg" height="80" alt="Slack" />&nbsp;&nbsp;
+<img src="./stacks/7-dotnet.svg" height="80" alt=".NET" />&nbsp;&nbsp;
+<img src="./stacks/8-php.svg" height="80" alt="PHP" />
 <br/><br/>
-<img src="./stacks/9-html.svg" height="72" alt="HTML" />&nbsp;&nbsp;
-<img src="./stacks/10-css.svg" height="72" alt="CSS" />&nbsp;&nbsp;
-<img src="./stacks/11-js.svg" height="72" alt="JavaScript" />&nbsp;&nbsp;
-<img src="./stacks/12-nginx.svg" height="72" alt="Nginx" />&nbsp;&nbsp;
-<img src="./stacks/13-mysql.svg" height="72" alt="MySQL" />&nbsp;&nbsp;
-<img src="./stacks/14-postgress.svg" height="72" alt="PostgreSQL" />&nbsp;&nbsp;
-<img src="./stacks/15-docker.svg" height="72" alt="Docker" />&nbsp;&nbsp;
-<img src="./stacks/16-figma.svg" height="72" alt="Figma" />
-
+<img src="./stacks/9-html.svg" height="80" alt="HTML" />&nbsp;&nbsp;
+<img src="./stacks/10-css.svg" height="80" alt="CSS" />&nbsp;&nbsp;
+<img src="./stacks/11-js.svg" height="80" alt="JavaScript" />&nbsp;&nbsp;
+<img src="./stacks/12-nginx.svg" height="80" alt="Nginx" />&nbsp;&nbsp;
+<img src="./stacks/13-mysql.svg" height="80" alt="MySQL" />&nbsp;&nbsp;
+<img src="./stacks/14-postgress.svg" height="80" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="./stacks/15-docker.svg" height="80" alt="Docker" />&nbsp;&nbsp;
+<img src="./stacks/16-figma.svg" height="80" alt="Figma" />
+<br/>
+<br/>
 </td>
 </tr>
 
