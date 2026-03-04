@@ -9,12 +9,12 @@
 <table align="center" cellpadding="15" cellspacing="0">
 
 <!-- ═══════════════ TYPING SVG ═══════════════ -->
-<tr><td colspan="3" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" /></a><br/></td></tr>
+<tr><td colspan="3" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" /></a><br/><br/></td></tr>
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
 <tr>
-<td width="55%" valign="top">
+<td colspan="2" valign="top">
 
 ```yaml
 name: Kmm Hanan
@@ -30,7 +30,7 @@ motto: "I will work only if I am satisfied 😅"
 📧 &nbsp;Reach me at **hanan@kmmhanan.com**
 
 </td>
-<td width="45%" align="center" valign="center">
+<td align="center" valign="center">
 <!-- <img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
 <img alt="Coding" width="100%" style="border-radius:10px" src="./git_image.gif"/>
 </td>
@@ -63,9 +63,23 @@ motto: "I will work only if I am satisfied 😅"
 <tr>
 <td colspan="3" align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,javascript,typescript,python,firebase,mongodb&theme=dark" style="filter: grayscale(100%) contrast(120%);" />
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,figma,vscode,androidstudio,github,linux&theme=dark" style="filter: grayscale(100%) contrast(120%);" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
+<img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 
 </td>
 </tr>
@@ -90,7 +104,7 @@ motto: "I will work only if I am satisfied 😅"
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" style="filter: grayscale(100%);" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
 </picture>
 
 </td>
