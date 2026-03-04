@@ -63,11 +63,9 @@ motto: "I will work only if I am satisfied 😅"
 <tr>
 <td colspan="2" align="center">
 
-<div style="filter: grayscale(100%) contrast(120%);">
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,javascript,typescript,python,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,javascript,typescript,python,firebase,mongodb&theme=dark" style="filter: grayscale(100%) contrast(120%);" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,figma,vscode,androidstudio,github,linux" />
-</div>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,figma,vscode,androidstudio,github,linux&theme=dark" style="filter: grayscale(100%) contrast(120%);" />
 
 </td>
 </tr>
@@ -109,16 +107,16 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ PROFILE BADGES ═══════════════ -->
-<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👤 PROFILE BADGES 👤</b><br/><br/></div></td></tr>
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👤 PROFILE BADGES 👤</b><br/><br/></div></td></tr>
 <tr>
-<td colspan="2" align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<div><img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views" /></div>
-&nbsp;
-<div><a href="https://twitter.com/kmmhanan"><img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=black&labelColor=555555" alt="Twitter Follow" /></a></div>
-&nbsp;
-<div><a href="https://github.com/kmmhanan?tab=followers"><img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=black&labelColor=555555" alt="GitHub Followers" /></a></div>
-
+<td width="33%" align="center" valign="center">
+<img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views" />
+</td>
+<td width="33%" align="center" valign="center">
+<a href="https://twitter.com/kmmhanan"><img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=black&labelColor=555555" alt="Twitter Follow" /></a>
+</td>
+<td width="33%" align="center" valign="center">
+<a href="https://github.com/kmmhanan?tab=followers"><img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=black&labelColor=555555" alt="GitHub Followers" /></a>
 </td>
 </tr>
 
