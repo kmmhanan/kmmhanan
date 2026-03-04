@@ -57,7 +57,8 @@ motto: "I will work only if I am satisfied 😅"
 
 </td>
 <td width="45%" align="center" valign="center">
-<img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- <img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
+<img alt="Coding" width="100%" style="border-radius:10px" src="./git_image.gif"/>
 </td>
 </tr>
 
