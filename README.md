@@ -39,7 +39,7 @@ motto: "I will work only if I am satisfied 😅"
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🔗 CONNECT WITH ME 🔗</b><br/><br/></div></td></tr>
 <tr>
 <td colspan="3" align="center">
-<br/><br/>
+<br/>
 <a href="https://www.linkedin.com/in/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://x.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
 <a href="https://t.me/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
@@ -61,7 +61,6 @@ motto: "I will work only if I am satisfied 😅"
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>⚙️ TECH STACK ⚙️</b><br/><br/></div></td></tr>
 <tr>
 <td colspan="3" align="center">
-<br/>
 <br/>
 <img src="./stacks/1-flutter.svg" height="80" alt="Flutter" />&nbsp;&nbsp;
 <img src="./stacks/2-dart.svg" height="80" alt="Dart" />&nbsp;&nbsp;
