@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- HEADER WAVE -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:ffffff&height=220&section=header&text=KMM%20HANAN&fontSize=63&fontColor=ffffff&fontAlignY=35&desc=Flutter%20and%20Node.js%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,000000&height=220&section=header&text=KMM%20HANAN&fontSize=63&fontColor=ffffff&fontAlignY=35&desc=Flutter%20and%20Node.js%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" />
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
@@ -142,7 +142,7 @@ motto: "I will work only if I am satisfied 😅"
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:ffffff&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000,ffffff&height=120&section=footer" />
 
 </div>
 
