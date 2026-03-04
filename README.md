@@ -39,7 +39,7 @@ motto: "I will work only if I am satisfied 😅"
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🔗 CONNECT WITH ME 🔗</b><br/><br/></div></td></tr>
 <tr>
 <td colspan="3" align="center">
-
+<br/><br/>
 <a href="https://www.linkedin.com/in/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://x.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
 <a href="https://t.me/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
@@ -52,7 +52,7 @@ motto: "I will work only if I am satisfied 😅"
 <a href="https://gitlab.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
 <a href="https://www.leetcode.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
 <a href="https://tryhackme.com/p/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-
+<br/><br/>
 </td>
 </tr>
 
@@ -124,14 +124,20 @@ motto: "I will work only if I am satisfied 😅"
 <!-- ═══════════════ PROFILE BADGES ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👤 PROFILE BADGES 👤</b><br/><br/></div></td></tr>
 <tr>
-<td width="40%" align="center" valign="center">
+<td width="35%" align="center" valign="center">
+<br/>
 <img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views" />
+<br/>
 </td>
-<td width="20%" align="center" valign="center">
+<td width="30%" align="center" valign="center">
+<br/>
 <a href="https://github.com/kmmhanan?tab=followers"><img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=black&labelColor=555555" alt="GitHub Followers" /></a>
+<br/>
 </td>
-<td width="40%" align="center" valign="center">
+<td width="35%" align="center" valign="center">
+<br/>
 <a href="https://twitter.com/kmmhanan"><img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=black&labelColor=555555" alt="Twitter Follow" /></a>
+<br/>
 </td>
 
 </tr>
