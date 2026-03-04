@@ -5,12 +5,12 @@
 <div align="center">
 
   <!-- HEADER WAVE -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,000000&height=220&section=header&text=KMM%20HANAN&fontSize=63&fontColor=ffffff&fontAlignY=35&desc=Flutter%20and%20Node.js%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" />
+  <!-- </a>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:ffffff&height=220&section=header&text=KMM%20HANAN&fontSize=63&fontColor=ffffff&fontAlignY=35&desc=Flutter%20and%20Node.js%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" /> -->
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" />
-  </a>
 
   <!-- PROFILE BADGES -->
   <br/>
@@ -89,9 +89,11 @@ motto: "I will work only if I am satisfied 😅"
 <tr>
 <td colspan="2" align="center">
 
+<div style="filter: grayscale(100%) contrast(120%);">
 <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,javascript,typescript,python,firebase,mongodb" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,docker,git,figma,vscode,androidstudio,github,linux" />
+</div>
 
 </td>
 </tr>
@@ -116,7 +118,7 @@ motto: "I will work only if I am satisfied 😅"
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake.svg" style="filter: grayscale(100%);" />
 </picture>
 
 </td>
@@ -127,7 +129,7 @@ motto: "I will work only if I am satisfied 😅"
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF" alt="Dev Quote" />
 
 </td>
 </tr>
@@ -142,7 +144,7 @@ motto: "I will work only if I am satisfied 😅"
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000,ffffff&height=120&section=footer" />
+  <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:ffffff&height=120&section=footer" /> -->
 
 </div>
 
