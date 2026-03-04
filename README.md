@@ -14,7 +14,7 @@
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="55%" colspan="2" valign="top">
 
 ```yaml
 name: Kmm Hanan
@@ -30,8 +30,7 @@ motto: "I will work only if I am satisfied 😅"
 📧 &nbsp;Reach me at **hanan@kmmhanan.com**
 
 </td>
-<td align="center" valign="center">
-<!-- <img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
+<td width="45%" align="center" valign="center">
 <img alt="Coding" width="100%" style="border-radius:10px" src="./git_image.gif"/>
 </td>
 </tr>
@@ -63,23 +62,23 @@ motto: "I will work only if I am satisfied 😅"
 <tr>
 <td colspan="3" align="center">
 
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
-<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="./stacks/1-flutter.svg" height="72" alt="Flutter" />&nbsp;&nbsp;
+<img src="./stacks/2-dart.svg" height="72" alt="Dart" />&nbsp;&nbsp;
+<img src="./stacks/3-laravel.svg" height="72" alt="Laravel" />&nbsp;&nbsp;
+<img src="./stacks/4-git.svg" height="72" alt="Git" />&nbsp;&nbsp;
+<img src="./stacks/5-react.svg" height="72" alt="React" />&nbsp;&nbsp;
+<img src="./stacks/6-slack.svg" height="72" alt="Slack" />&nbsp;&nbsp;
+<img src="./stacks/7-dotnet.svg" height="72" alt=".NET" />&nbsp;&nbsp;
+<img src="./stacks/8-php.svg" height="72" alt="PHP" />
 <br/><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
-<img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />&nbsp;
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="./stacks/9-html.svg" height="72" alt="HTML" />&nbsp;&nbsp;
+<img src="./stacks/10-css.svg" height="72" alt="CSS" />&nbsp;&nbsp;
+<img src="./stacks/11-js.svg" height="72" alt="JavaScript" />&nbsp;&nbsp;
+<img src="./stacks/12-nginx.svg" height="72" alt="Nginx" />&nbsp;&nbsp;
+<img src="./stacks/13-mysql.svg" height="72" alt="MySQL" />&nbsp;&nbsp;
+<img src="./stacks/14-postgress.svg" height="72" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="./stacks/15-docker.svg" height="72" alt="Docker" />&nbsp;&nbsp;
+<img src="./stacks/16-figma.svg" height="72" alt="Figma" />
 
 </td>
 </tr>
