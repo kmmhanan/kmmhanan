@@ -2,40 +2,14 @@
 <!--                    🔥 KMM HANAN — GitHub Profile                -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
-
-  <!-- HEADER WAVE -->
-  <!-- </a>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:ffffff&height=220&section=header&text=KMM%20HANAN&fontSize=63&fontColor=ffffff&fontAlignY=35&desc=Flutter%20and%20Node.js%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" /> -->
-
-  <!-- TYPING SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" />
-
-  <!-- PROFILE BADGES -->
-  <br/>
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://twitter.com/kmmhanan">
-    <img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=black&labelColor=555555" alt="Twitter Follow" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kmmhanan?tab=followers">
-    <img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=black&labelColor=555555" alt="GitHub Followers" />
-  </a>
-
-</div>
-<br/>
-
-<br/>
-
 <!-- ━━━━━━━━━━━━━ MAIN CONTENT TABLE ━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 <table align="center" cellpadding="15" cellspacing="0">
+
+<!-- ═══════════════ TYPING SVG ═══════════════ -->
+<tr><td colspan="2" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" /></a><br/></td></tr>
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 <tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
@@ -134,17 +108,21 @@ motto: "I will work only if I am satisfied 😅"
 </td>
 </tr>
 
+<!-- ═══════════════ PROFILE BADGES ═══════════════ -->
+<tr><td colspan="2" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👤 PROFILE BADGES 👤</b><br/><br/></div></td></tr>
+<tr>
+<td colspan="2" align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<div><img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views" /></div>
+&nbsp;
+<div><a href="https://twitter.com/kmmhanan"><img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=black&labelColor=555555" alt="Twitter Follow" /></a></div>
+&nbsp;
+<div><a href="https://github.com/kmmhanan?tab=followers"><img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=black&labelColor=555555" alt="GitHub Followers" /></a></div>
+
+</td>
+</tr>
+
 </table>
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-  <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:ffffff&height=120&section=footer" /> -->
 
 </div>
 
