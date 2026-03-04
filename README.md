@@ -9,12 +9,12 @@
 <table align="center" cellpadding="15" cellspacing="0">
 
 <!-- ═══════════════ TYPING SVG ═══════════════ -->
-<tr><td colspan="3" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" /></a><br/><br/></td></tr>
+<tr><td colspan="10" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" /></a><br/><br/></td></tr>
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
+<tr><td colspan="10" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
 <tr>
-<td width="55%"  valign="top">
+<td colspan="6"  valign="top">
 
 ```yaml
 name: Kmm Hanan
@@ -30,15 +30,15 @@ motto: "I will work only if I am satisfied 😅"
 📧 &nbsp;Reach me at **hanan@kmmhanan.com**
 
 </td>
-<td width="45%" align="center" valign="center">
+<td colspan="4" align="center" valign="center">
 <img alt="Coding" width="100%" style="border-radius:10px" src="./git_image.gif"/>
 </td>
 </tr>
 
 <!-- ═══════════════ CONNECT WITH ME ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🔗 CONNECT WITH ME 🔗</b><br/><br/></div></td></tr>
+<tr><td colspan="10" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🔗 CONNECT WITH ME 🔗</b><br/><br/></div></td></tr>
 <tr>
-<td colspan="3" align="center">
+<td colspan="10" align="center">
 <br/><br/>
 <a href="https://www.linkedin.com/in/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://x.com/kmmhanan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
@@ -58,9 +58,9 @@ motto: "I will work only if I am satisfied 😅"
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>⚙️ TECH STACK ⚙️</b><br/><br/></div></td></tr>
+<tr><td colspan="10" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>⚙️ TECH STACK ⚙️</b><br/><br/></div></td></tr>
 <tr>
-<td colspan="3" align="center">
+<td colspan="10" align="center">
 <br/>
 <br/>
 <img src="./stacks/1-flutter.svg" height="80" alt="Flutter" />&nbsp;&nbsp;
@@ -86,9 +86,9 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>📈 GITHUB ANALYTICS 📈</b><br/><br/></div></td></tr>
+<tr><td colspan="10" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>📈 GITHUB ANALYTICS 📈</b><br/><br/></div></td></tr>
 <tr>
-<td colspan="3" align="center">
+<td colspan="10" align="center">
 
 <a href="https://github.com/kmmhanan"><img width="70%" src="https://streak-stats.demolab.com?user=kmmhanan&theme=highcontrast&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="Streak Stats" /></a>
 <br/><br/>
@@ -98,9 +98,9 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🐍 CONTRIBUTION SNAKE 🐍</b><br/><br/></div></td></tr>
+<tr><td colspan="10" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🐍 CONTRIBUTION SNAKE 🐍</b><br/><br/></div></td></tr>
 <tr>
-<td colspan="3" align="center">
+<td colspan="10" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/output/github-snake-dark.svg" />
@@ -112,9 +112,9 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ RANDOM DEV QUOTE ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>💭 RANDOM DEV QUOTE 💭</b><br/><br/></div></td></tr>
+<tr><td colspan="10" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>💭 RANDOM DEV QUOTE 💭</b><br/><br/></div></td></tr>
 <tr>
-<td colspan="3" align="center">
+<td colspan="10" align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF" alt="Dev Quote" />
 
@@ -122,19 +122,19 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ PROFILE BADGES ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👤 PROFILE BADGES 👤</b><br/><br/></div></td></tr>
+<tr><td colspan="10" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👤 PROFILE BADGES 👤</b><br/><br/></div></td></tr>
 <tr>
-<td width="35%" align="center" valign="center">
+<td colspan="4" align="center" valign="center">
 <br/>
 <img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views" />
 <br/>
 </td>
-<td width="30%" align="center" valign="center">
+<td colspan="2" align="center" valign="center">
 <br/>
 <a href="https://github.com/kmmhanan?tab=followers"><img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=black&labelColor=555555" alt="GitHub Followers" /></a>
 <br/>
 </td>
-<td width="35%" align="center" valign="center">
+<td colspan="4" align="center" valign="center">
 <br/>
 <a href="https://twitter.com/kmmhanan"><img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=black&labelColor=555555" alt="Twitter Follow" /></a>
 <br/>
