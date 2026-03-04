@@ -22,9 +22,9 @@ role: Flutter & Node.js Developer | UI/UX Designer
 motto: "I will work only if I am satisfied 😅"
 ```
 
-🏦 &nbsp;Currently building **Banking Applications with Flutter**<br/>
+🏦 &nbsp;Currently working as a Senior Software Engineer [**@Tech Zone**](https://tech.kmm.zone)<br/>
 🌱 &nbsp;Exploring **Flutter · Node.js · Python**<br/>
-🤝 &nbsp;Open to collaborate on **Flutter & Node.js Projects**<br/>
+🤝 &nbsp;Open to discuss about **AI & LLMs**<br/>
 👨‍💻 &nbsp;Portfolio → [**kmmhanan.com**](https://www.kmmhanan.com/)<br/>
 💬 &nbsp;Ask me about **Flutter, Dart, Node.js, TypeScript, Python**<br/>
 📧 &nbsp;Reach me at **hanan@kmmhanan.com**
