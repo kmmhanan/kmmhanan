@@ -14,7 +14,7 @@
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👋 ABOUT ME 👋</b><br/><br/></div></td></tr>
 <tr>
-<td colspan="2"  valign="top">
+<td width="55%"  valign="top">
 
 ```yaml
 name: Kmm Hanan
@@ -30,7 +30,7 @@ motto: "I will work only if I am satisfied 😅"
 📧 &nbsp;Reach me at **hanan@kmmhanan.com**
 
 </td>
-<td colspan="1" align="center" valign="center">
+<td width="45%" align="center" valign="center">
 <img alt="Coding" width="100%" style="border-radius:10px" src="./git_image.gif"/>
 </td>
 </tr>
