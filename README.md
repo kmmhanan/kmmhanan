@@ -22,10 +22,10 @@ role: Flutter & Node.js Developer | UI/UX Designer
 motto: "I will work only if I am satisfied 😅"
 ```
 
-🏦 &nbsp;Currently working as a Senior Software Engineer [**@Tech Zone**](https://tech.kmm.zone)<br/>
+🏦 &nbsp;Currently working as a Senior Software Engineer <a href="https://tech.kmm.zone" target="_blank">**@Tech Zone**</a><br/>
 🌱 &nbsp;Exploring **Flutter · Node.js · Python**<br/>
 🤝 &nbsp;Open to discuss about **AI & LLMs**<br/>
-👨‍💻 &nbsp;Portfolio → [**kmmhanan.com**](https://www.kmmhanan.com/)<br/>
+👨‍💻 &nbsp;Portfolio → <a href="https://www.kmmhanan.com/" target="_blank">**kmmhanan.com**</a><br/>
 💬 &nbsp;Ask me about **Flutter, Dart, Node.js, TypeScript, Python**<br/>
 📧 &nbsp;Reach me at **hanan@kmmhanan.com**
 
@@ -76,7 +76,7 @@ motto: "I will work only if I am satisfied 😅"
 <img src="./stacks/11-js.svg" height="80" alt="JavaScript" />&nbsp;&nbsp;
 <img src="./stacks/12-nginx.svg" height="80" alt="Nginx" />&nbsp;&nbsp;
 <img src="./stacks/13-mysql.svg" height="80" alt="MySQL" />&nbsp;&nbsp;
-<img src="./stacks/14-postgress.svg" height="80" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="./stacks/14-postgres.svg" height="80" alt="PostgreSQL" />&nbsp;&nbsp;
 <img src="./stacks/15-docker.svg" height="80" alt="Docker" />&nbsp;&nbsp;
 <img src="./stacks/16-figma.svg" height="80" alt="Figma" />
 <br/>
