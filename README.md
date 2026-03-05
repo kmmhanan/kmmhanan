@@ -121,7 +121,7 @@ motto: "I will work only if I am satisfied 😅"
 </tr>
 
 <!-- ═══════════════ PROFILE BADGES ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👤 PROFILE BADGES 👤</b><br/><br/></div></td></tr>
+<!-- <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>👤 PROFILE BADGES 👤</b><br/><br/></div></td></tr>
 <tr>
 <td width="40%" align="center" valign="center">
 <br/><img src="https://komarev.com/ghpvc/?username=kmmhanan&label=%20👀%20Profile%20Views&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views" /><br/><br/>
@@ -133,6 +133,36 @@ motto: "I will work only if I am satisfied 😅"
 <br/><a href="https://twitter.com/kmmhanan"><img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=black&labelColor=555555" alt="Twitter Follow" /></a><br/><br/>
 </td>
 
+</tr> -->
+<tr><td colspan="3" align="center">
+  <div style="font-size: 1.5em; font-weight: bold; margin: 0;">
+    <br/><b>👤 PROFILE BADGES 👤</b><br/><br/>
+  </div>
+</td></tr>
+
+<tr>
+  <td width="35%" align="center" valign="center">
+    <br/>
+    <img src="https://img.shields.io/badge/Profile%20Views-1234-black?style=for-the-badge&labelColor=000000&color=000000" />
+    <br/><br/>
+
+  </td>
+
+  <td width="30%" align="center" valign="center">
+    <br/>
+    <a href="https://github.com/kmmhanan?tab=followers">
+      <img src="https://img.shields.io/github/followers/kmmhanan?logo=github&style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Followers" />
+    </a>
+    <br/><br/>
+  </td>
+
+  <td width="35%" align="center" valign="center">
+    <br/>
+    <a href="https://twitter.com/kmmhanan">
+      <img src="https://img.shields.io/twitter/follow/kmmhanan?style=for-the-badge&logo=x&color=000000&labelColor=000000" alt="Twitter Follow" />
+    </a>
+    <br/><br/>
+  </td>
 </tr>
 
 </table>
