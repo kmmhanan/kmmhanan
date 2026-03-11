@@ -19,7 +19,7 @@
 ```yaml
 name: Kmm Hanan
 role: Flutter & Node.js Developer | UI/UX Designer
-motto: "I will work only if I am satisfied 😅"
+motto: "No satisfaction, no work."
 ```
 
 🏦 &nbsp;Currently working as a Senior Software Engineer <a href="https://tech.kmm.zone" target="_blank">**@Tech Zone**</a><br/>
