@@ -22,12 +22,12 @@ role: Flutter & Node.js Developer | UI/UX Designer
 motto: "No satisfaction, no work."
 ```
 
-🏦 &nbsp;Currently working as a Senior Software Engineer <a href="https://tech.kmm.zone" target="_blank">**@Tech Zone**</a><br/>
+🏦 &nbsp;Working as a Senior Software Engineer <a href="https://tech.kmm.zone" target="_blank">**@Tech Zone**</a><br/>
 🌱 &nbsp;Exploring **Flutter · Node.js · Python**<br/>
-🤝 &nbsp;Open to discuss about **AI & LLMs**<br/>
-👨‍💻 &nbsp;Portfolio → <a href="https://www.kmmhanan.com/" target="_blank">**kmmhanan.com**</a><br/>
-💬 &nbsp;Ask me about **Flutter, Dart, Node.js, TypeScript, Python**<br/>
-📧 &nbsp;Reach me at **hanan@kmmhanan.com**
+💬 &nbsp;Ask me about **Flutter · React · Node.js · Python**<br/>
+🤝 &nbsp;Open to discuss about **AI · LLMs**<br/>
+🕸️ &nbsp;Portfolio → <a href="https://www.kmmhanan.com/" target="_blank">**kmmhanan.com**</a><br/>
+📧 &nbsp;Reach me → **hanan@kmmhanan.com**
 
 </td>
 <td colspan="1" align="center" valign="center">
