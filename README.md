@@ -6,7 +6,12 @@
 
 <div align="center">
 
-<table align="center" cellpadding="15" cellspacing="0">
+<table align="center" cellpadding="15" cellspacing="0" style="table-layout: fixed; width: 100%;">
+<colgroup>
+  <col style="width: 160px;">
+  <col style="width: auto;">
+  <col style="width: 280px;">
+</colgroup>
 
 <!-- ═══════════════ TYPING SVG ═══════════════ -->
 <tr><td colspan="3" align="center"><br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Flutter+%7C+Node.js+%7C+Python+%7C+Figma;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" /></a><br/><br/></td></tr>
@@ -30,7 +35,7 @@ motto: "No satisfaction, no work."
 📧 &nbsp;Reach me → **hanan@kmmhanan.com**
 
 </td>
-<td colspan="1" align="center" valign="center">
+<td colspan="1" width="160" align="center" valign="center" style="width: 260px;">
 <img alt="Coding" width="100%" style="border-radius:10px" src="./git_image.gif"/>
 </td>
 </tr>
@@ -64,14 +69,14 @@ motto: "No satisfaction, no work."
 </tr>
 
 <!-- ═══════════════ OPEN SOURCE PROJECTS ═══════════════ -->
-<tr><td colspan="6" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🛠️ OPEN SOURCE PROJECTS 🛠️</b><br/><br/></div></td></tr>
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🛠️ OPEN SOURCE PROJECTS 🛠️</b><br/><br/></div></td></tr>
 
 <!-- Project: custom-color-comment -->
-<tr>
-<td colspan="1" width="100" align="center" valign="center">
-<img alt="Custom Color Comment icon" width="90" height="90" style="border-radius:10px" src="./projects/custom-color-comment.svg"/>
+<tr style="height: 130px;">
+<td width="100" align="center" valign="middle" style="padding: 10px 6px; width: 100px;">
+<img alt="Custom Color Comment icon" width="90" height="90" style="border-radius:10px; display:block; margin:auto;" src="./projects/custom-color-comment.svg"/>
 </td>
-<td colspan="5" valign="top">
+<td colspan="2" align="left" valign="middle" style="padding: 10px 0; text-align: left;">
 
 **[Custom Color Comment](https://github.com/kmmhanan/custom-color-comment)** — _VS Code Extension_
 
@@ -81,11 +86,11 @@ Colors comments based on a tag right after the comment marker (`//! red`, `//? c
 </tr>
 
 <!-- Project: moviepy-layout -->
-<tr>
-<td colspan="1" width="100" align="center" valign="center">
-<img alt="moviepy-layout icon" width="90" height="90" style="border-radius:10px" src="./projects/moviepy-layout.svg"/>
+<tr style="height: 130px;">
+<td width="100" align="center" valign="middle" style="padding: 10px 6px; width: 100px;">
+<img alt="moviepy-layout icon" width="90" height="90" style="border-radius:10px; display:block; margin:auto;" src="./projects/moviepy-layout.svg"/>
 </td>
-<td colspan="5" valign="top">
+<td colspan="2" align="left" valign="middle" style="padding: 10px 0; text-align: left;">
 
 **[moviepy-layout](https://github.com/kmmhanan/moviepy-layout)** — _Python Package_
 
@@ -97,16 +102,16 @@ Composable layout primitives for MoviePy, inspired by Flutter and CSS — gradie
 <!-- Add new open source projects above this line -->
 
 <!-- ═══════════════ OPEN SOURCE CONTRIBUTIONS ═══════════════ -->
-<tr><td colspan="6" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🤝 OPEN SOURCE CONTRIBUTIONS 🤝</b><br/><br/></div></td></tr>
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🤝 OPEN SOURCE CONTRIBUTIONS 🤝</b><br/><br/></div></td></tr>
 
 <!-- Contribution: tensorflow/flutter-tflite -->
-<tr>
-<td colspan="1" width="100" align="center" valign="center">
-<img alt="TensorFlow icon" width="90" height="90" style="border-radius:10px" src="./projects/flutter-tflite.svg"/>
+<tr style="height: 130px;">
+<td width="100" align="center" valign="middle" style="padding: 10px 6px; width: 100px;">
+<img alt="TensorFlow icon" width="90" height="90" style="border-radius:10px; display:block; margin:auto;" src="./projects/flutter-tflite.svg"/>
 </td>
-<td colspan="5" valign="top">
+<td colspan="2" align="left" valign="middle" style="padding: 10px 0; text-align: left;">
 
-**[flutter-tflite](https://github.com/tensorflow/flutter-tflite)** — _TensorFlow_
+**[flutter-tflite](https://github.com/tensorflow/flutter-tflite)** — _TensorFlow (Google)_
 
 Contributed updates to SPM (Swift Package Manager) capabilities and fixes for Android Kotlin issues. <a href="https://github.com/tensorflow/flutter-tflite/pull/305" target="_blank">**View PR #305**</a>
 
