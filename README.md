@@ -158,7 +158,6 @@ Contributed updates to SPM (Swift Package Manager) capabilities and fixes for An
 
 <tr>
   <td colspan="3" align="center">
-    <br></br>
     <a href="https://github.com/kmmhanan"><img width="70%" src="https://streak-stats.demolab.com?user=kmmhanan&theme=highcontrast&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="Streak Stats" /></a>
     <br/><br/>
     <a href="https://github.com/kmmhanan"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kmmhanan&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" alt="Activity Graph" /></a>
@@ -193,8 +192,7 @@ Contributed updates to SPM (Swift Package Manager) capabilities and fixes for An
 
 <tr>
   <td colspan="3" align="center" valign="center">
-    <br></br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF&bg_color=131B24" alt="Dev Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF" alt="Dev Quote" />
   </td>
 </tr>
 
