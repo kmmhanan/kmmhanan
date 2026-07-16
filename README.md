@@ -92,8 +92,8 @@ motto: "No satisfaction, no work."
 <!-- Project: custom-color-comment -->
 
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img alt="Custom Color Comment icon" width="90" height="90" src="./projects/custom-color-comment.svg"/>
+  <td align="center" valign="middle">
+    <img alt="Custom Color Comment icon" width="240" height="135" src="./projects/custom-color-comment.svg"/>
   </td>
   
   <td colspan="2" align="left" valign="middle">
@@ -108,8 +108,8 @@ Colors comments based on a tag right after the comment marker (`//! red`, `//? c
 <!-- Project: moviepy-layout -->
 
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img alt="moviepy-layout icon" width="90" height="90" src="./projects/moviepy-layout.svg"/>
+  <td align="center" valign="middle">
+    <img alt="moviepy-layout icon" width="240" height="135" src="./projects/moviepy-layout.svg"/>
   </td>
   
   <td colspan="2" align="left" valign="middle">
@@ -134,8 +134,8 @@ Composable layout primitives for MoviePy, inspired by Flutter and CSS — gradie
 <!-- Contribution: tensorflow/flutter-tflite -->
 
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img alt="TensorFlow icon" width="90" height="90" src="./projects/flutter-tflite.svg"/>
+  <td align="center" valign="middle">
+    <img alt="TensorFlow icon" width="240" height="135" src="./projects/flutter-tflite.svg"/>
   </td>
 
   <td colspan="2" align="left" valign="middle">
