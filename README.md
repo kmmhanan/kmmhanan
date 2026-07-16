@@ -194,7 +194,7 @@ Contributed updates to SPM (Swift Package Manager) capabilities and fixes for An
 <tr>
   <td colspan="3" align="center" valign="center">
     <br></br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF" alt="Dev Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF&bg_color=131B24" alt="Dev Quote" />
   </td>
 </tr>
 
