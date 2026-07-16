@@ -190,8 +190,8 @@ Contributed updates to SPM (Swift Package Manager) capabilities and fixes for An
 </tr>
 
 <tr>
-  <br></br>
   <td colspan="3" align="center" valign="middle">
+    <br></br>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=FFFFFF" alt="Dev Quote" />
   </td>
 </tr>
