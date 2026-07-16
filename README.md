@@ -63,6 +63,58 @@ motto: "No satisfaction, no work."
 </td>
 </tr>
 
+<!-- ═══════════════ OPEN SOURCE PROJECTS ═══════════════ -->
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🛠️ OPEN SOURCE PROJECTS 🛠️</b><br/><br/></div></td></tr>
+
+<!-- Project: custom-color-comment -->
+<tr>
+<td colspan="1" width="100" align="center" valign="center">
+<img alt="Custom Color Comment icon" width="90" height="90" style="border-radius:10px" src="./projects/custom-color-comment.svg"/>
+</td>
+<td colspan="2" valign="top">
+
+**[Custom Color Comment](https://github.com/kmmhanan/custom-color-comment)** — _VS Code Extension_
+
+Colors comments based on a tag right after the comment marker (`//! red`, `//? cyan`, `// TODO: orange`), inspired by Colorful Comments but fully customizable via `settings.json` and works across virtually any language. <a href="https://marketplace.visualstudio.com/items?itemName=kmmhanan.custom-color-comment" target="_blank">**VS Code Marketplace**</a>
+
+</td>
+</tr>
+
+<!-- Project: moviepy-layout -->
+<tr>
+<td colspan="1" width="100" align="center" valign="center">
+<img alt="moviepy-layout icon" width="90" height="90" style="border-radius:10px" src="./projects/moviepy-layout.svg"/>
+</td>
+<td colspan="2" valign="top">
+
+**[moviepy-layout](https://github.com/kmmhanan/moviepy-layout)** — _Python Package_
+
+Composable layout primitives for MoviePy, inspired by Flutter and CSS — gradients, flex/box/stack layouts, styled text, and effects like shadow and blur. `pip install moviepy-layout`
+
+</td>
+</tr>
+
+<!-- Add new open source projects above this line -->
+
+<!-- ═══════════════ OPEN SOURCE CONTRIBUTIONS ═══════════════ -->
+<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🤝 OPEN SOURCE CONTRIBUTIONS 🤝</b><br/><br/></div></td></tr>
+
+<!-- Contribution: tensorflow/flutter-tflite -->
+<tr>
+<td colspan="1" width="100" align="center" valign="center">
+<img alt="TensorFlow icon" width="90" height="90" style="border-radius:10px" src="./projects/flutter-tflite.svg"/>
+</td>
+<td colspan="2" valign="top">
+
+**[flutter-tflite](https://github.com/tensorflow/flutter-tflite)** — _TensorFlow_
+
+Contributed updates to SPM (Swift Package Manager) capabilities and fixes for Android Kotlin issues. <a href="https://github.com/tensorflow/flutter-tflite/pull/305" target="_blank">**View PR #305**</a>
+
+</td>
+</tr>
+
+<!-- Add new open source contributions above this line -->
+
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>📈 GITHUB ANALYTICS 📈</b><br/><br/></div></td></tr>
 <tr>
