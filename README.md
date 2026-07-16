@@ -64,14 +64,14 @@ motto: "No satisfaction, no work."
 </tr>
 
 <!-- ═══════════════ OPEN SOURCE PROJECTS ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🛠️ OPEN SOURCE PROJECTS 🛠️</b><br/><br/></div></td></tr>
+<tr><td colspan="6" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🛠️ OPEN SOURCE PROJECTS 🛠️</b><br/><br/></div></td></tr>
 
 <!-- Project: custom-color-comment -->
 <tr>
 <td colspan="1" width="100" align="center" valign="center">
 <img alt="Custom Color Comment icon" width="90" height="90" style="border-radius:10px" src="./projects/custom-color-comment.svg"/>
 </td>
-<td colspan="2" valign="top">
+<td colspan="5" valign="top">
 
 **[Custom Color Comment](https://github.com/kmmhanan/custom-color-comment)** — _VS Code Extension_
 
@@ -85,7 +85,7 @@ Colors comments based on a tag right after the comment marker (`//! red`, `//? c
 <td colspan="1" width="100" align="center" valign="center">
 <img alt="moviepy-layout icon" width="90" height="90" style="border-radius:10px" src="./projects/moviepy-layout.svg"/>
 </td>
-<td colspan="2" valign="top">
+<td colspan="5" valign="top">
 
 **[moviepy-layout](https://github.com/kmmhanan/moviepy-layout)** — _Python Package_
 
@@ -97,14 +97,14 @@ Composable layout primitives for MoviePy, inspired by Flutter and CSS — gradie
 <!-- Add new open source projects above this line -->
 
 <!-- ═══════════════ OPEN SOURCE CONTRIBUTIONS ═══════════════ -->
-<tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🤝 OPEN SOURCE CONTRIBUTIONS 🤝</b><br/><br/></div></td></tr>
+<tr><td colspan="6" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🤝 OPEN SOURCE CONTRIBUTIONS 🤝</b><br/><br/></div></td></tr>
 
 <!-- Contribution: tensorflow/flutter-tflite -->
 <tr>
 <td colspan="1" width="100" align="center" valign="center">
 <img alt="TensorFlow icon" width="90" height="90" style="border-radius:10px" src="./projects/flutter-tflite.svg"/>
 </td>
-<td colspan="2" valign="top">
+<td colspan="5" valign="top">
 
 **[flutter-tflite](https://github.com/tensorflow/flutter-tflite)** — _TensorFlow_
 
