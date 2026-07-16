@@ -98,7 +98,7 @@ motto: "No satisfaction, no work."
   
   <td colspan="2" align="left" valign="middle">
 
-**[Custom Color Comment](https://github.com/kmmhanan/custom-color-comment)** — _VS Code Extension_
+**[custom-color-comment](https://github.com/kmmhanan/custom-color-comment)** — _VS Code Extension_
 
 Colors comments based on a tag right after the comment marker (`//! red`, `//? cyan`, `// TODO: orange`), inspired by Colorful Comments but fully customizable via `settings.json` and works across virtually any language. <a href="https://marketplace.visualstudio.com/items?itemName=kmmhanan.custom-color-comment" target="_blank">**VS Code Marketplace**</a>
 
