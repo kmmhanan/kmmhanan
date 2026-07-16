@@ -66,16 +66,12 @@ motto: "No satisfaction, no work."
 <!-- ═══════════════ OPEN SOURCE PROJECTS ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🛠️ OPEN SOURCE PROJECTS 🛠️</b><br/><br/></div></td></tr>
 
-<tr><td colspan="3">
-
-<table align="center" cellpadding="15" cellspacing="0" width="100%">
-
 <!-- Project: custom-color-comment -->
 <tr>
 <td width="100" align="center" valign="middle">
 <img alt="Custom Color Comment icon" width="90" height="90" src="./projects/custom-color-comment.svg"/>
 </td>
-<td align="left" valign="middle">
+<td colspan="2" align="left" valign="middle">
 
 **[Custom Color Comment](https://github.com/kmmhanan/custom-color-comment)** — _VS Code Extension_
 
@@ -89,7 +85,7 @@ Colors comments based on a tag right after the comment marker (`//! red`, `//? c
 <td width="100" align="center" valign="middle">
 <img alt="moviepy-layout icon" width="90" height="90" src="./projects/moviepy-layout.svg"/>
 </td>
-<td align="left" valign="middle">
+<td colspan="2" align="left" valign="middle">
 
 **[moviepy-layout](https://github.com/kmmhanan/moviepy-layout)** — _Python Package_
 
@@ -100,23 +96,15 @@ Composable layout primitives for MoviePy, inspired by Flutter and CSS — gradie
 
 <!-- Add new open source projects above this line -->
 
-</table>
-
-</td></tr>
-
 <!-- ═══════════════ OPEN SOURCE CONTRIBUTIONS ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>🤝 OPEN SOURCE CONTRIBUTIONS 🤝</b><br/><br/></div></td></tr>
-
-<tr><td colspan="3">
-
-<table align="center" cellpadding="15" cellspacing="0" width="100%">
 
 <!-- Contribution: tensorflow/flutter-tflite -->
 <tr>
 <td width="100" align="center" valign="middle">
 <img alt="TensorFlow icon" width="90" height="90" src="./projects/flutter-tflite.svg"/>
 </td>
-<td align="left" valign="middle">
+<td colspan="2" align="left" valign="middle">
 
 **[flutter-tflite](https://github.com/tensorflow/flutter-tflite)** — _TensorFlow (Google)_
 
@@ -126,10 +114,6 @@ Contributed updates to SPM (Swift Package Manager) capabilities and fixes for An
 </tr>
 
 <!-- Add new open source contributions above this line -->
-
-</table>
-
-</td></tr>
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 <tr><td colspan="3" align="center"><div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>📈 GITHUB ANALYTICS 📈</b><br/><br/></div></td></tr>
