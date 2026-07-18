@@ -56,12 +56,12 @@ motto: "I will work only if I am satisfied 😅"
 &nbsp;&nbsp;📧 &nbsp;Reach me at **hanan@kmmhanan.com**
 
 </td>
-<td width="45%" align="center" valign="center">
+  <td width="45%" align="center" valign="center">
 
-<img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+  <img alt="Coding" width="100%" style="border-radius:10px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
 
 <!-- ━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━ -->
