@@ -116,7 +116,7 @@ Colors comments based on a tag right after the comment marker (`//! red`, `//? c
 
 **[moviepy-layout](https://github.com/kmmhanan/moviepy-layout)** — _Python Package_
 
-Composable layout primitives for MoviePy, inspired by Flutter and CSS — gradients, flex/box/stack layouts, styled text, and effects like shadow and blur. `pip install moviepy-layout`
+Composable layout primitives for MoviePy, inspired by Flutter and CSS — build with `Row`, `Column`, `Stack` widgets, gradients, styled text, and effects like shadow and blur, all chainable in a fluent, maintainable API. `pip install moviepy-layout`
 
   </td>
 </tr>
@@ -142,7 +142,7 @@ Composable layout primitives for MoviePy, inspired by Flutter and CSS — gradie
 
 **[flutter-tflite](https://github.com/tensorflow/flutter-tflite)** — _TensorFlow (Google)_
 
-Contributed updates to SPM (Swift Package Manager) capabilities and fixes for Android Kotlin issues. <a href="https://github.com/tensorflow/flutter-tflite/pull/305" target="_blank">**View PR #305**</a>
+Contributed updates to SPM (Swift Package Manager) capabilities and fixes for Android Kotlin issues, resolving native build failures and aligning the plugin with newer Android toolchain versions for Flutter maintainers. <a href="https://github.com/tensorflow/flutter-tflite/pull/305" target="_blank">**View PR #305**</a>
 
   </td>
 </tr>
