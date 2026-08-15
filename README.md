@@ -81,6 +81,24 @@ motto: "No satisfaction, no work."
   </td>
 </tr>
 
+<!-- ═══════════════ MONKEYTYPE STATS ═══════════════ -->
+
+<tr>
+  <td colspan="3" align="center">
+    <div style="font-size: 1.5em; font-weight: bold; margin: 0;"><br/><b>⌨️ MONKEYTYPE STATS ⌨️</b><br/><br/></div>
+  </td>
+</tr>
+
+<tr>
+  <td colspan="3" align="center">
+    <br/>
+    <a href="https://monkeytype.com/profile/kmmhanan" target="_blank">
+      <img width="70%" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/monkeytype-readme/monkeytype-readme.svg" alt="Monkeytype Stats" />
+    </a>
+    <br/><br/>
+  </td>
+</tr>
+
 <!-- ═══════════════ OPEN SOURCE PROJECTS ═══════════════ -->
 
 <tr>
