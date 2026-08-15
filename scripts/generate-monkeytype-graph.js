@@ -1,23 +1,24 @@
-// Fetches your Monkeytype 60-second test history via the official API
-// (authenticated with an Ape Key) and renders a black & white smoothed
-// curve graph: WPM (white line, right axis) and Accuracy (gray line with
-// a faint white fill beneath it, left axis), with a plain "wpm X  acc Y%"
-// summary line.
+// Finds your single best (highest wpm) 60-second Monkeytype test and
+// renders its actual per-second speed graph — the same chartData the
+// Monkeytype result page itself uses — as a black & white SVG:
+//   - white curve  = wpm (smoothed, per-second, as returned by the API)
+//   - gray curve   = burst (raw per-second speed, jagged)
+//   - faint white fill under the wpm curve
+//   - "wpm X   acc Y%" summary line, no error markers
 //
-// Docs: https://api.monkeytype.com/docs  (GET /results)
+// This only ever looks at ONE test result (your best 60s one), not your
+// whole history, so it's light on API calls:
+//   1) GET /results?limit=1000        -> find the best time/60 result's id
+//   2) GET /results/id/{id}           -> pull its chartData
+//
+// Docs: https://api.monkeytype.com/docs
 // Auth: Authorization: ApeKey <key>
-//
-// Note: the API caps a single request at 1000 results and this script
-// does not paginate further back, so this covers your most recent 1000
-// tests overall, filtered down to the 60s ones.
 
 const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
 const APE_KEY = process.env.MONKEYTYPE_APE_KEY;
-const MAX_RESULTS = 1000;
-const SMOOTH_WINDOW = 20; // rolling average window before curving, tune to taste
 
 if (!APE_KEY) {
   console.error("Missing MONKEYTYPE_APE_KEY environment variable.");
@@ -54,18 +55,6 @@ function apiGet(pathname) {
   });
 }
 
-function rollingAvg(values, window) {
-  const out = [];
-  let sum = 0;
-  for (let i = 0; i < values.length; i++) {
-    sum += values[i];
-    if (i >= window) sum -= values[i - window];
-    const count = Math.min(i + 1, window);
-    out.push(sum / count);
-  }
-  return out;
-}
-
 // Catmull-Rom -> cubic bezier smooth path through a series of points.
 function smoothPath(pointsArr) {
   if (pointsArr.length < 2) return "";
@@ -84,108 +73,99 @@ function smoothPath(pointsArr) {
   return d;
 }
 
-function buildSvg(points) {
+function buildSvg(result) {
   const width = 1400;
   const height = 420;
-  const padding = { top: 60, right: 60, bottom: 40, left: 60 };
+  const padding = { top: 60, right: 40, bottom: 40, left: 50 };
   const plotW = width - padding.left - padding.right;
   const plotH = height - padding.top - padding.bottom;
 
-  const n = points.length;
-  const minTs = points[0].timestamp;
-  const maxTs = points[n - 1].timestamp;
-  const tsRange = Math.max(1, maxTs - minTs);
+  const wpmSeries = result.chartData.wpm;
+  const burstSeries = result.chartData.burst;
+  const seconds = wpmSeries.length;
 
-  const wpmValues = points.map((p) => p.wpm);
-  const accValues = points.map((p) => p.acc);
-  const rightMax = Math.max(
-    10,
-    Math.ceil((Math.max(...wpmValues) + 5) / 10) * 10,
-  );
-  const leftMax = 100;
+  const allVals = [...wpmSeries, ...burstSeries];
+  const maxVal = Math.max(...allVals);
+  const yMax = Math.max(10, Math.ceil((maxVal + 5) / 10) * 10);
 
-  const x = (ts) => padding.left + ((ts - minTs) / tsRange) * plotW;
-  const yAcc = (acc) => padding.top + (acc / leftMax) * plotH;
-  const yWpm = (wpm) => padding.top + plotH - (wpm / rightMax) * plotH;
+  const x = (i) => padding.left + (i / (seconds - 1)) * plotW;
+  const y = (v) => padding.top + plotH - (v / yMax) * plotH;
   const bottomY = padding.top + plotH;
 
-  const wpmSmoothed = rollingAvg(wpmValues, SMOOTH_WINDOW);
-  const accSmoothed = rollingAvg(accValues, SMOOTH_WINDOW);
+  const wpmPoints = wpmSeries.map((v, i) => [x(i), y(v)]);
+  const burstPoints = burstSeries.map((v, i) => [x(i), y(v)]);
 
-  const wpmCurvePoints = points.map((p, i) => [
-    x(p.timestamp),
-    yWpm(wpmSmoothed[i]),
-  ]);
-  const accCurvePoints = points.map((p, i) => [
-    x(p.timestamp),
-    yAcc(accSmoothed[i]),
-  ]);
+  const wpmPath = smoothPath(wpmPoints);
+  const burstPath = smoothPath(burstPoints);
+  const wpmFillPath = `${wpmPath} L ${wpmPoints[wpmPoints.length - 1][0].toFixed(1)} ${bottomY.toFixed(1)} L ${wpmPoints[0][0].toFixed(1)} ${bottomY.toFixed(1)} Z`;
 
-  const wpmPath = smoothPath(wpmCurvePoints);
-  const accPath = smoothPath(accCurvePoints);
-
-  // Closed fill path: accuracy curve down to the bottom axis, faint white.
-  const accFillPath = `${accPath} L ${accCurvePoints[accCurvePoints.length - 1][0].toFixed(1)} ${bottomY.toFixed(1)} L ${accCurvePoints[0][0].toFixed(1)} ${bottomY.toFixed(1)} Z`;
-
-  // Gridlines every 10 units on the left (0-100) scale.
+  // Gridlines every 10 units.
   const gridLines = [];
-  for (let v = 0; v <= 100; v += 10) {
-    const gy = padding.top + (v / leftMax) * plotH;
-    const rightVal = Math.round(rightMax * (1 - v / 100));
+  for (let v = 0; v <= yMax; v += 10) {
+    const gy = y(v);
     gridLines.push(
       `<line x1="${padding.left}" y1="${gy.toFixed(1)}" x2="${width - padding.right}" y2="${gy.toFixed(1)}" stroke="#2a2a2a" stroke-width="1" />`,
       `<text x="${padding.left - 10}" y="${(gy + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="#888888" font-family="JetBrains Mono, monospace">${v}</text>`,
-      `<text x="${width - padding.right + 10}" y="${(gy + 4).toFixed(1)}" text-anchor="start" font-size="11" fill="#888888" font-family="JetBrains Mono, monospace">${rightVal}</text>`,
     );
   }
 
-  const avgWpm = wpmValues.reduce((a, b) => a + b, 0) / wpmValues.length;
-  const avgAcc = accValues.reduce((a, b) => a + b, 0) / accValues.length;
+  // X axis second labels, every 5s.
+  const xLabels = [];
+  for (let i = 0; i < seconds; i += 5) {
+    xLabels.push(
+      `<text x="${x(i).toFixed(1)}" y="${height - padding.bottom + 20}" text-anchor="middle" font-size="10" fill="#666666" font-family="JetBrains Mono, monospace">${i + 1}</text>`,
+    );
+  }
 
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <rect width="${width}" height="${height}" fill="#000000" />
-  <text x="${(padding.left + plotW / 2).toFixed(1)}" y="34" text-anchor="middle" font-size="22" fill="#ffffff" font-family="JetBrains Mono, monospace" font-weight="600">wpm ${avgWpm.toFixed(1)}     acc ${avgAcc.toFixed(0)}%</text>
+  <text x="${(padding.left + plotW / 2).toFixed(1)}" y="34" text-anchor="middle" font-size="22" fill="#ffffff" font-family="JetBrains Mono, monospace" font-weight="600">wpm ${result.wpm}     acc ${Math.round(result.acc)}%</text>
   ${gridLines.join("\n  ")}
-  <text transform="translate(16, ${padding.top + plotH / 2}) rotate(-90)" text-anchor="middle" font-size="12" fill="#888888" font-family="JetBrains Mono, monospace">Accuracy</text>
-  <text transform="translate(${width - 16}, ${padding.top + plotH / 2}) rotate(90)" text-anchor="middle" font-size="12" fill="#888888" font-family="JetBrains Mono, monospace">Words per Minute</text>
-  <path d="${accFillPath}" fill="#ffffff" fill-opacity="0.06" stroke="none" />
-  <path d="${accPath}" fill="none" stroke="#888888" stroke-width="2" stroke-linecap="round" />
+  ${xLabels.join("\n  ")}
+  <text transform="translate(16, ${padding.top + plotH / 2}) rotate(-90)" text-anchor="middle" font-size="12" fill="#888888" font-family="JetBrains Mono, monospace">Words per Minute</text>
+  <path d="${wpmFillPath}" fill="#ffffff" fill-opacity="0.06" stroke="none" />
+  <path d="${burstPath}" fill="none" stroke="#888888" stroke-width="1.5" stroke-linecap="round" />
   <path d="${wpmPath}" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" />
 </svg>`;
 }
 
 async function main() {
-  const res = await apiGet(`/results?limit=${MAX_RESULTS}`);
-  const raw = res.data || [];
+  // 1) Find the best time/60 result's id (light: we only keep wpm/id/mode fields we need).
+  const listRes = await apiGet("/results?limit=1000");
+  const all = listRes.data || [];
+  const sixty = all.filter(
+    (r) => r.mode === "time" && String(r.mode2) === "60",
+  );
 
-  if (raw.length === 0) {
-    console.error("No results returned from Monkeytype API.");
+  if (sixty.length === 0) {
+    console.error("No 60-second test results found.");
     process.exit(1);
   }
 
-  const points = raw
-    .filter(
-      (r) =>
-        r.mode === "time" &&
-        String(r.mode2) === "60" &&
-        typeof r.wpm === "number" &&
-        typeof r.acc === "number" &&
-        typeof r.timestamp === "number",
-    )
-    .sort((a, b) => a.timestamp - b.timestamp);
+  const best = sixty.reduce((a, b) => (b.wpm > a.wpm ? b : a));
 
-  if (points.length === 0) {
-    console.error("No 60-second test results found in the fetched data.");
+  // 2) Pull the full result (with chartData) for that one test only.
+  const detailRes = await apiGet(`/results/id/${best._id}`);
+  const result = detailRes.data;
+
+  if (
+    !result.chartData ||
+    !result.chartData.wpm ||
+    result.chartData.wpm.length === 0
+  ) {
+    console.error("Best result has no chart data available.");
     process.exit(1);
   }
 
   const outDir = path.join(__dirname, "..", "public");
   fs.mkdirSync(outDir, { recursive: true });
 
-  const svg = buildSvg(points);
+  const svg = buildSvg(result);
   fs.writeFileSync(path.join(outDir, "monkeytype-graph.svg"), svg);
 
-  console.log(`Wrote graph for ${points.length} 60s results.`);
+  console.log(
+    `Wrote graph for best 60s result: ${result.wpm} wpm / ${result.acc}% acc.`,
+  );
 }
 
 main().catch((err) => {
