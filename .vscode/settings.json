@@ -5,6 +5,7 @@
         "monkeytype",
         "moviepy",
         "Platane",
-        "tflite"
+        "tflite",
+        "wpms"
     ]
 }

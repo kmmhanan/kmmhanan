@@ -1,8 +1,8 @@
-name: Generate Monkeytype Stats
+name: Generate Monkeytype Graph
 
 on:
     schedule:
-        - cron: "0 */6 * * *" # Runs every 6 hours
+        - cron: "0 6 * * *" # Runs daily at 06:00 UTC
     workflow_dispatch: # Allows manual trigger
 
 permissions:
@@ -16,14 +16,19 @@ jobs:
               uses: actions/checkout@v4
 
             - name: Set up Node.js
-              uses: actions/setup-node@v3
+              uses: actions/setup-node@v4
               with:
                   node-version: "20.x"
 
-            - name: Generate Monkeytype Readme SVG
-              uses: monkeytype-hub/monkeytype-readme@v1.0.0
+            - name: Generate Monkeytype WPM graph
+              run: node scripts/generate-monkeytype-graph.js
+              env:
+                  MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
+
+            - name: Push to output branch
+              uses: crazy-max/ghaction-github-pages@v4
               with:
-                  username: kmmhanan
-                  themes: dark
-                  target-branch: monkeytype-readme
-                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  target_branch: monkeytype-output
+                  build_dir: public
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
