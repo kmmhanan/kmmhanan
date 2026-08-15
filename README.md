@@ -93,11 +93,7 @@ motto: "No satisfaction, no work."
   <td colspan="3" align="center">
     <br/>
     <a href="https://monkeytype.com/profile/kmmhanan" target="_blank">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/monkeytype-output/monkeytype-wpm-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmmhanan/kmmhanan/monkeytype-output/monkeytype-wpm-light.svg" />
-        <img width="70%" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/monkeytype-output/monkeytype-wpm-dark.svg" alt="Monkeytype WPM graph" />
-      </picture>
+      <img width="90%" src="https://raw.githubusercontent.com/kmmhanan/kmmhanan/monkeytype-output/monkeytype-graph.svg" alt="Monkeytype WPM & accuracy graph" />
     </a>
     <br/><br/>
   </td>
