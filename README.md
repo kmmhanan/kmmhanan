@@ -100,7 +100,7 @@ motto: "No satisfaction, no work."
 
 **[export-pro](https://github.com/kmmhanan/export-pro)** — _Figma Plugin_
 
-Persistent, template‑based export presets that survive changing your selection. Define once, reuse everywhere — making asset exports faster, consistent, and frustration‑free. Built for designers handling multiple formats, it streamlines repetitive export tasks into a smooth, reliable workflow. <a href="https://www.figma.com/community/plugin/1675580814209939375" target="_blank">**Figma Community**</a>
+Persistent, template‑based export presets that survive changing selection. Define once, reuse everywhere — making exports faster, consistent, and frustration‑free. Built for designers handling multiple formats, it streamlines repetitive tasks into a smooth, reliable workflow. <a href="https://www.figma.com/community/plugin/1675580814209939375" target="_blank">**Figma Community**</a>
 
   </td>
 </tr>
@@ -116,7 +116,7 @@ Persistent, template‑based export presets that survive changing your selection
 
 **[easy-components](https://github.com/kmmhanan/easy-components)** — _Figma Plugin_
 
-Create and manage multiple components with ease — including batch creation, un‑componenting, sorting layers, and renaming in specific formats. Designed to speed up workflows, it keeps your design files organized, consistent, and effortless to maintain. <a href="https://www.figma.com/community/plugin/1676054280668029257" target="_blank">**Figma Community**</a>
+Create and manage components with ease — including batch creation, un‑componenting, sorting layers, and renaming formats. Designed to speed up workflows, it keeps design files organized, consistent, and effortless to maintain. <a href="https://www.figma.com/community/plugin/1676054280668029257" target="_blank">**Figma Community**</a>
 
   </td>
 </tr>
