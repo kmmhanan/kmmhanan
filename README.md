@@ -100,7 +100,7 @@ motto: "No satisfaction, no work."
 
 **[export-pro](https://github.com/kmmhanan/export-pro)** — _Figma Plugin_
 
-Template‑based export presets that survive changing selection. Define once, reuse everywhere — making exports faster, consistent, and frustration‑free. Built for designers handling multiple formats, it streamlines repetitive tasks into a smooth, reliable workflow. <a href="https://www.figma.com/community/plugin/1675580814209939375" target="_blank">**Figma Community**</a>
+Template‑based export presets that survive changing selection. Define once, reuse everywhere — making exports faster, and consistent. Built for designers handling multiple formats, it streamlines repetitive tasks into a smooth, reliable workflow. <a href="https://www.figma.com/community/plugin/1675580814209939375" target="_blank">**Figma Community**</a>
 
   </td>
 </tr>
