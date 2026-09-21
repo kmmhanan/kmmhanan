@@ -89,37 +89,6 @@ motto: "No satisfaction, no work."
   </td>
 </tr>
 
-<!-- Project: export-pro -->
-
-<tr>
-  <td align="center" valign="middle">
-    <img alt="export-pro icon" width="240" height="135" src="./projects/export-pro.svg"/>
-  </td>
-  
-  <td colspan="2" align="left" valign="middle">
-
-**[export-pro](https://github.com/kmmhanan/export-pro)** — _Figma Plugin_
-
-Template‑based export presets that survive changing selection. Define once, reuse everywhere — making exports faster, and consistent. Built for designers handling multiple formats, it streamlines repetitive tasks into a smooth, reliable workflow. <a href="https://www.figma.com/community/plugin/1675580814209939375" target="_blank">**Figma Community**</a>
-
-  </td>
-</tr>
-
-<!-- Project: easy-components -->
-
-<tr>
-  <td align="center" valign="middle">
-    <img alt="easy-components icon" width="240" height="135" src="./projects/easy-components.svg"/>
-  </td>
-  
-  <td colspan="2" align="left" valign="middle">
-
-**[easy-components](https://github.com/kmmhanan/easy-components)** — _Figma Plugin_
-
-Create and manage components with ease — including batch creation, un‑componenting, sorting layers, and renaming formats. Designed to speed up workflows, it keeps design files organized, consistent, and effortless to maintain. <a href="https://www.figma.com/community/plugin/1676054280668029257" target="_blank">**Figma Community**</a>
-
-  </td>
-</tr>
 
 <!-- Project: custom-color-comment -->
 
