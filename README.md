@@ -140,11 +140,9 @@ Composable layout primitives for MoviePy, inspired by Flutter and CSS — build 
 
   <td colspan="2" align="left" valign="middle">
 
-**[tflite-core](https://github.com/kmmhanan/tflite-core)**
+**[tflite-core](https://github.com/kmmhanan/tflite-core)** - _Flutter Package_
 
-Maintainer of **tflite_core**, the actively maintained successor to the deprecated `tflite_flutter` package. Bringing TensorFlow Lite inference to Flutter with ongoing updates, platform support improvements, bug fixes, and a focus on enabling production-ready on-device AI experiences.
-
-📦 Latest release: **tflite_core: ^0.12.9**
+The actively maintained successor to the deprecated `tflite_flutter` package. Bringing TensorFlow Lite inference to Flutter with ongoing updates, platform support improvements, bug fixes, and a focus on enabling production-ready on-device AI experiences. `flutter pub add tflite_core`
 
   </td>
 </tr>
