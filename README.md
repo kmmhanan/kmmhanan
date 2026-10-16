@@ -131,18 +131,20 @@ Composable layout primitives for MoviePy, inspired by Flutter and CSS — build 
   </td>
 </tr>
 
-<!-- Contribution: tensorflow/flutter-tflite -->
+<!-- Project: tflite-core -->
 
 <tr>
   <td align="center" valign="middle">
-    <img alt="TensorFlow icon" width="240" height="135" src="./projects/flutter-tflite.svg"/>
+    <img alt="tflite_core icon" width="240" height="135" src="./projects/tflite-core.svg"/>
   </td>
 
   <td colspan="2" align="left" valign="middle">
 
-**[flutter-tflite](https://github.com/tensorflow/flutter-tflite)** — _TensorFlow (Google)_
+**[tflite-core](https://github.com/kmmhanan/tflite-core)**
 
-Contributed updates to SPM (Swift Package Manager) capabilities and fixes for Android Kotlin issues, resolving native build failures and aligning the plugin with newer Android toolchain versions for Flutter maintainers. <a href="https://github.com/tensorflow/flutter-tflite/pull/305" target="_blank">**View PR #305**</a>
+Maintainer of **tflite_core**, the actively maintained successor to the deprecated `tflite_flutter` package. Bringing TensorFlow Lite inference to Flutter with ongoing updates, platform support improvements, bug fixes, and a focus on enabling production-ready on-device AI experiences.
+
+📦 Latest release: **tflite_core: ^0.12.9**
 
   </td>
 </tr>
